@@ -48,8 +48,6 @@ Project is _finished_.
 Project inspired by the React Conf 2018.
 At React Conf 2018, Sophie Alpert and Dan Abramov introduced Hooks, followed by Ryan Florence demonstrating how to refactor an application to use them.
 
-```
 Watch the video here: [video React Conf 2018](http://dev.nodeca.com)
-```
 
 ---
